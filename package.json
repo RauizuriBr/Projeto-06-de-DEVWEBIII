@@ -1,0 +1,17 @@
+{
+  "name": "agenda-contatos-crud",
+  "version": "1.0.0",
+  "description": "Agenda de contatos em Node.js, HTML, CSS e SQLite com integração ViaCEP; baseada no recurso de aula 261007.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

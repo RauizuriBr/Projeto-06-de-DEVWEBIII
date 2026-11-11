@@ -1,0 +1,5 @@
+node_modules/
+agenda.sqlite
+agenda.sqlite-shm
+agenda.sqlite-wal
+.DS_Store
